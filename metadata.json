@@ -1,0 +1,6 @@
+{
+  "name": "Sorpresas con S - Anchetas Personalizadas",
+  "description": "Tienda web colombiana para crear y personalizar anchetas de regalos dulces, salados y sorpresas con pagos en Bancolombia y Nequi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
